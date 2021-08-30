@@ -20,7 +20,7 @@ The Elixir installer usually would bundle the Erlang OTP 22 if you skipped the p
 
 If you're a Data Science person you should already have this installed but here's a link if you are still stuck in the Python 2 Era
 
-<a href="https://www.python.org/downloads/">Python</a>
+<a href="https://www.python.org/downloads/">Download Python</a>
 
 ### Python WSL2 
 
