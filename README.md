@@ -57,3 +57,15 @@ Add the following to the bottom of the file
 ```bash
 export PATH="${PATH}:/root/.mix/escripts"
 ```
+
+### Start the Server
+
+```bash 
+mix escript.install hex livebook 0.2.3
+
+# Start the Livebook server
+livebook server
+
+# See all the configuration options
+livebook server --help
+```
