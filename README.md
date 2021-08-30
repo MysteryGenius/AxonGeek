@@ -2,7 +2,7 @@
 
 ## Windows 
 
-<a href="windows.md">WSL2 + Ubuntu + ZSH Setup</a>
+<a href="Windows.md">WSL2 + Ubuntu + ZSH Setup</a>
 
 ## Erlang Installation 
 
