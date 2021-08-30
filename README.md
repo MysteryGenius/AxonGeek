@@ -40,6 +40,8 @@ sudo apt update && sudo apt install bazel-3.7.2
 
 ## Livebook
 
+<a href="https://github.com/livebook-dev/livebook">Link to Livebook Repo</a>
+
 After all of these setup work are done we can now proceed to getting Livebook working!
 
 ```bash
@@ -65,7 +67,6 @@ mix escript.install hex livebook 0.2.3
 
 # Start the Livebook server
 livebook server
-
-# See all the configuration options
-livebook server --help
 ```
+
+Once the server is up we can navigate to AxonGeek's folder and open the livebook
